@@ -22,4 +22,4 @@ How to contribute
 
 &nbsp;
 
-(sync this)
+(sync this) Done!
