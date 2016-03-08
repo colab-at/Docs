@@ -9,5 +9,17 @@ permalink: http://beta.colab.at/how-to-contribute/
 published: true
 menu_order:
   - "1"
+size:
+  - col2 row2
+icon:
+  - ""
+link_site:
+  - 'null'
+link_out:
+  - ""
 ---
 How to contribute
+
+&nbsp;
+
+(sync this)
