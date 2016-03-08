@@ -10,4 +10,6 @@ published: true
 ---
 Pull posts with category "About"
 
+yeah github sync works
+
 &nbsp;
