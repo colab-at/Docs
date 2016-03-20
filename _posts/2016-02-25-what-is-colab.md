@@ -1,7 +1,7 @@
 ---
 ID: 44
 post_title: What is Colab
-author: open@colab.at
+author: Pedro Reis
 post_date: 2016-02-25 08:55:05
 post_excerpt: ""
 layout: post
