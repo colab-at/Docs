@@ -18,3 +18,5 @@ If we raise collaboration beyond its present boundaries, we will be able to brin
 Think of every time you wanted to start something but didn’t know where to start, or felt that there just weren’t enough people around that shared the same passion. Imagine if there was a place where you could share your ideas, get help in making them happen and at the same time contribute to the ideas of others. Imagine the difference it would make if you could contribute to the ideas that mattered the most to you and make them your own.
 
 That’s what we are building here. Join us!
+
+[An edit]
