@@ -13,8 +13,10 @@ size:
 icon:
   - cc
 link_site:
-  - "32"
+  - "44"
 link_out:
   - ""
+menu_order:
+  - "0"
 ---
 Licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
